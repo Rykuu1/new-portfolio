@@ -6,7 +6,7 @@ This site showcases my projects, skills, and experience using **Vite**, **React*
 ## 🚀 Tech Stack
 - Vite + React
 - Tailwind CSS
-- JavaScript (ES6+)
+- JavaScript 
 - Git & GitHub
 
 ## 🛠️ Setup
