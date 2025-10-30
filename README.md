@@ -4,10 +4,10 @@ Welcome to my personal portfolio!
 This site showcases my projects, skills, and experience using **Vite**, **React**, and **TailwindCSS**.
 
 ## 🚀 Tech Stack
-- Vite + React
+- Vite
+- React
+- TypeScript
 - Tailwind CSS
-- JavaScript 
-- Git & GitHub
 
 ## 🛠️ Setup
 1. Clone the repository  
