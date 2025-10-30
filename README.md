@@ -1,7 +1,8 @@
 # 🌅 New Portfolio
 
 Welcome to my personal portfolio!  
-This site showcases my projects, skills, and experience using **Vite**, **React**, and **TailwindCSS**.
+npm install
+npm run dev
 
 ## 🚀 Tech Stack
 - Vite
